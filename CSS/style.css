@@ -1,10 +1,35 @@
-div.Pic01{
+div.main{
     position: relative;
     top: auto;
     right: 0;
 }
-div.Pic02{
+
+div.header{
     position: relative;
-    top: 50px;
+    top: auto;
+    right: 0;
+}
+
+div.content{
+     position: relative;
+     top: auto;
+     right: 0;
+ }
+
+div.picture1{
+    position: relative;
+    top: auto;
+    right: 0;
+}
+
+div.picture2{
+    position: absolute;
+    top: 0px;
+    right: 0;
+}
+
+div.links{
+    position: relative;
+    top: 0px;
     right: 0;
 }
