@@ -1,10 +1,10 @@
 div.Pic01{
     position: relative;
-    top: 100px;
+    top: auto;
     right: 0;
 }
 div.Pic02{
     position: relative;
-    top: 200px;
+    top: 100px;
     right: 0;
 }
