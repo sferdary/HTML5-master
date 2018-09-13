@@ -7,17 +7,27 @@ html, body {
 html {
     display: table;
     margin: auto;
+    color: black;
+    text-decoration-color: white;
 }
 
 body {
     display: table-cell;
     vertical-align: middle;
-}div.container {
-     display: table-cell;
-     vertical-align: middle;
+    color: black;
+    text-decoration-color: white;
 }
 
-div.content {
+.container {
+     display: table-cell;
+     vertical-align: middle;
+    color: black;
+    text-decoration-color: white;
+}
+
+.content {
     display: table-cell;
     vertical-align: middle;
+    color: black;
+    text-decoration-color: white;
  }
