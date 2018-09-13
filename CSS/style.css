@@ -13,9 +13,8 @@ body {
     display: table-cell;
     vertical-align: middle;
 }div.container {
-    position: center;
-    top: auto;
-    right: 0;
+     display: table-cell;
+     vertical-align: middle;
 }
 div.content {
      position: relative;
