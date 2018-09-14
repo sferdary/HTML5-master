@@ -43,7 +43,7 @@ a {
 }
 .container {
     margin: auto;
-    display: block;
+    display: table;
     vertical-align: middle;
     width: auto;
 }
