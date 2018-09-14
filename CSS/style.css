@@ -1,33 +1,60 @@
 html, body {
     height: 100%;
-    color: black;
-    text-decoration-color: white;
-}
+    background-color: black;
+    color: white;
 
-html {
+}
+.main {
+}
+a {
+    color: white;
+}
+.sides{}
+#fadeleft {
+    float: left;
+    height: 110%;
+    width: 10%;
+}
+#faderight {
+    float: right;
+    height: 110%;
+    width: 10%;
+}
+.template {
     display: table;
     margin: auto;
-    color: black;
-    text-decoration-color: white;
-}
-
-body {
-    display: table-cell;
     vertical-align: middle;
-    color: black;
-    text-decoration-color: white;
+    width: auto;
 }
-
+#banner {
+    display: block;
+    vertical-align: middle;
+    margin: auto;
+    width: 500px;
+}
+.tablemenu {
+    display: table;
+    vertical-align: middle;
+    margin: auto;
+    width: auto;
+}
+.tdmenu {
+    width: 125px;
+    text-align: center;
+    font-size: 25px;
+}
 .container {
-     display: table-cell;
-     vertical-align: middle;
-    color: black;
-    text-decoration-color: white;
-}
-
-.content {
-    display: table-cell;
+    display: table;
+    margin: auto;
+    display: block;
     vertical-align: middle;
-    color: black;
-    text-decoration-color: white;
- }
+    width: auto;
+}
+.Table1 {
+    display: table;
+    margin: auto;
+    width: auto;
+}
+.photo {
+    size: auto;
+}
