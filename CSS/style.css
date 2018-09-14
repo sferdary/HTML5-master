@@ -2,13 +2,11 @@ html, body {
     height: 100%;
     background-color: black;
     color: white;
-
-}
-.main {
 }
 a {
     color: white;
 }
+.main {}
 .sides{}
 #fadeleft {
     float: left;
@@ -44,7 +42,6 @@ a {
     font-size: 25px;
 }
 .container {
-    display: table;
     margin: auto;
     display: block;
     vertical-align: middle;
