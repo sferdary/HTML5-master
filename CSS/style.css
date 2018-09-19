@@ -29,13 +29,13 @@ a {
     vertical-align: middle;
     margin: auto;
     width: 500px;
-    Border = 1px;
 }
 .tablemenu {
     display: table;
     vertical-align: middle;
     margin: auto;
     width: auto;
+    border: 1px;
 }
 .tdmenu {
     width: 125px;
