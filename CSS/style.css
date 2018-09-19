@@ -54,5 +54,6 @@ a {
     width: auto;
 }
 .photo {
-    size: auto;
+    width: 40%;
+    height: auto;
 }
