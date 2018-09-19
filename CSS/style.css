@@ -29,6 +29,7 @@ a {
     vertical-align: middle;
     margin: auto;
     width: 500px;
+    Border = 1px;
 }
 .tablemenu {
     display: table;
