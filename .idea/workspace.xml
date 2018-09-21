@@ -17,12 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../EersteApplet/src/Show.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H4_Tekenen" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H5_Variabelen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0202/Table0202.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0202/Table0202.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0203/Table0203.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0203/Table0203.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/Opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/Opdrachten.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../h01" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-Java" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-Java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-java-master" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-java-master" afterDir="false" />
@@ -98,11 +93,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="108" />
+                <state relative-caret-position="476">
+                  <caret line="28" column="122" selection-start-line="28" selection-start-column="122" selection-end-line="28" selection-end-column="122" />
                 </state>
               </provider>
             </entry>
@@ -143,7 +138,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0203/Table0203.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="51">
@@ -194,12 +189,12 @@
         <option value="$PROJECT_DIR$/CSS/style.css" />
         <option value="$PROJECT_DIR$/Opdrachten/Opdrachten.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/002/HTML5_002.html" />
-        <option value="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0202/Table0202.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0203/Table0203.html" />
+        <option value="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" />
       </list>
     </option>
   </component>
@@ -211,7 +206,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="1308" />
+    <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -377,7 +372,7 @@
       <workItem from="1537371870825" duration="3011000" />
       <workItem from="1537447024074" duration="600000" />
       <workItem from="1537524913988" duration="335000" />
-      <workItem from="1537525267648" duration="2589000" />
+      <workItem from="1537525267648" duration="2678000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 opdrachten">
       <created>1536743644054</created>
@@ -390,7 +385,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41725000" />
+    <option name="totallyTimeSpent" value="41814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -509,13 +504,6 @@
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/table01.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -548,6 +536,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="122" selection-start-line="28" selection-start-column="122" selection-end-line="28" selection-end-column="122" />
         </state>
       </provider>
     </entry>
