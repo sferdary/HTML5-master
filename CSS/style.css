@@ -3,7 +3,12 @@ html, body, a {
     background-color: black;
     color: white;
 }
+a {
+    text-align: left;
+    align: left;
+}
 ul {
+    text-align: left;
     align: left;
 }
 .main {}
