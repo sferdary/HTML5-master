@@ -17,7 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../EersteApplet/src/Show.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H4_Tekenen" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H5_Variabelen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../h01" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-Java" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-Java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-java-master" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-java-master" afterDir="false" />
@@ -93,11 +93,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+                <state relative-caret-position="459">
+                  <caret line="27" column="78" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
                 </state>
               </provider>
             </entry>
@@ -105,8 +105,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="2" selection-end-column="10" />
+                <state relative-caret-position="493">
+                  <caret line="29" column="149" selection-start-line="29" selection-start-column="149" selection-end-line="29" selection-end-column="149" />
                 </state>
               </provider>
             </entry>
@@ -120,7 +120,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="34">
@@ -189,12 +189,12 @@
         <option value="$PROJECT_DIR$/CSS/style.css" />
         <option value="$PROJECT_DIR$/Opdrachten/Opdrachten.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/002/HTML5_002.html" />
-        <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0202/Table0202.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/Table0203/Table0203.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html" />
+        <option value="$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html" />
       </list>
     </option>
   </component>
@@ -246,11 +246,6 @@
             <path>
               <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Contact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
               <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,13 +253,6 @@
               <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
               <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
               <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="002" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
@@ -272,43 +260,6 @@
               <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
               <item name="HTML5" type="462c0819:PsiDirectoryNode" />
               <item name="003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="003" type="462c0819:PsiDirectoryNode" />
-              <item name="Table0101" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="003" type="462c0819:PsiDirectoryNode" />
-              <item name="Table0201" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="003" type="462c0819:PsiDirectoryNode" />
-              <item name="Table0202" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="003" type="462c0819:PsiDirectoryNode" />
-              <item name="Table0203" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="Template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,7 +323,7 @@
       <workItem from="1537371870825" duration="3011000" />
       <workItem from="1537447024074" duration="600000" />
       <workItem from="1537524913988" duration="335000" />
-      <workItem from="1537525267648" duration="2733000" />
+      <workItem from="1537525267648" duration="2953000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 opdrachten">
       <created>1536743644054</created>
@@ -385,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41869000" />
+    <option name="totallyTimeSpent" value="42089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -504,27 +455,6 @@
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/table01.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0202/Table0202.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -541,8 +471,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="78" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <caret line="29" column="149" selection-start-line="29" selection-start-column="149" selection-end-line="29" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
