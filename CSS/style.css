@@ -1,13 +1,10 @@
-html, body {
+html, body, a {
     height: 100%;
     background-color: black;
     color: white;
 }
-a {
-    color: white;
-}
 ul {
-    text-align: left;
+    align: left;
 }
 .main {}
 .sides{}
