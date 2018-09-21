@@ -6,6 +6,9 @@ html, body {
 a {
     color: white;
 }
+ul {
+    text-align: left;
+}
 .main {}
 .sides{}
 #fadeleft {
@@ -60,8 +63,4 @@ a {
 .tdPhoto {
     width: 40%;
     height: 40%
-}
-
-#ulOpdrachten {
-    text-align: left;
 }
