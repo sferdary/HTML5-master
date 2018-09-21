@@ -58,14 +58,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="461" />
-          <entry key="html" value="1745" />
+          <entry key="html" value="1769" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="461" />
-          <entry key="HTML" value="1745" />
+          <entry key="HTML" value="1769" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -102,11 +102,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="493">
-                  <caret line="29" column="149" selection-start-line="29" selection-start-column="149" selection-end-line="29" selection-end-column="149" />
+                  <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
                 </state>
               </provider>
             </entry>
@@ -120,7 +120,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0201/Table0201.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="34">
@@ -323,7 +323,7 @@
       <workItem from="1537371870825" duration="3011000" />
       <workItem from="1537447024074" duration="600000" />
       <workItem from="1537524913988" duration="335000" />
-      <workItem from="1537525267648" duration="2953000" />
+      <workItem from="1537525267648" duration="3517000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 opdrachten">
       <created>1536743644054</created>
@@ -336,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42089000" />
+    <option name="totallyTimeSpent" value="42653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -476,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="149" selection-start-line="29" selection-start-column="149" selection-end-line="29" selection-end-column="149" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/Table0101/table0101.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -494,6 +487,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/003/HTML5_003.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
         </state>
       </provider>
     </entry>
