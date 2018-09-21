@@ -45,13 +45,13 @@ a {
 .container {
     margin: auto;
     display: table;
-    vertical-align: middle;
     width: auto;
 }
 .table1 {
     display: table;
     margin: auto;
     width: auto;
+    vertical-align: middle;
 }
 .photo {
     width: 100%;
@@ -60,4 +60,8 @@ a {
 .tdPhoto {
     width: 40%;
     height: 40%
+}
+
+#ulOpdrachten {
+    vertical-align: left;
 }
