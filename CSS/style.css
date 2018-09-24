@@ -3,11 +3,7 @@ html, body, a {
     background-color: black;
     color: white;
 }
-a {
-    text-align: left;
-    align: left;
-}
-ul {
+a, ul {
     text-align: left;
     align: left;
 }
@@ -62,7 +58,7 @@ ul {
     display: table;
     margin: auto;
     width: auto;
-    align: left;
+    float: left;
 }
 .photo {
     width: 100%;
