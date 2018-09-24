@@ -12,12 +12,12 @@ a, ul {
 #fadeleft {
     float: left;
     height: 110%;
-    width: 10%;
+    width: 15%;
 }
 #faderight {
     float: right;
     height: 110%;
-    width: 10%;
+    width: 15%;
 }
 .template {
     display: table;
@@ -44,9 +44,11 @@ a, ul {
     font-size: 25px;
 }
 .container {
-    margin: auto;
     display: table;
+    display: block;
     width: auto;
+    margin: auto;
+
 }
 .table1 {
     display: table;
