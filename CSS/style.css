@@ -61,7 +61,7 @@ ul {
 .tList {
     display: table;
     margin: auto;
-    width: auto;
+    width: 125px;
     vertical-align: left;
 }
 .photo {
