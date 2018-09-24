@@ -61,8 +61,8 @@ ul {
 .tList {
     display: table;
     margin: auto;
-    width: 125px;
-    vertical-align: left;
+    width: auto;
+    align: left;
 }
 .photo {
     width: 100%;
@@ -70,5 +70,5 @@ ul {
 }
 .tdPhoto {
     width: 40%;
-    height: 40%
+    height: 40%;
 }
