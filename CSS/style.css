@@ -46,7 +46,7 @@ a, ul {
 .container {
     display: table;
     display: block;
-    width: auto;
+    width: 40%;
     margin: auto;
 
 }
