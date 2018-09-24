@@ -54,7 +54,7 @@ a, ul {
     width: auto;
     vertical-align: middle;
 }
-.tList {
+#tList {
     display: table;
     margin: auto;
     width: auto;
