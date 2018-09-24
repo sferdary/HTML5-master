@@ -8,65 +8,58 @@ a, ul {
     align: left;
 }
 .main {}
-.sides{}
-#fadeleft {
-    float: left;
-    height: 110%;
-    width: 15%;
-}
-#faderight {
-    float: right;
-    height: 110%;
-    width: 15%;
-}
-.template {
-    display: table;
-    margin: auto;
-    vertical-align: middle;
-    width: auto;
-}
-#banner {
-    display: block;
-    vertical-align: middle;
-    margin: auto;
-    width: 500px;
-}
-.tablemenu {
-    display: table;
-    vertical-align: middle;
-    margin: auto;
-    width: auto;
-    border: 1px;
-}
-.tdmenu {
-    width: 125px;
-    text-align: center;
-    font-size: 25px;
-}
-.container {
-    display: table;
-    display: block;
-    width: 40%;
-    margin: auto;
+    .sides{}
+    #fadeleft {
+        float: left;
+        height: 110%;
+        width: 15%;
+    }
+    #faderight {
+        float: right;
+        max-height: 500%;
+        width: 15%;
+    }
+    .template {
+        display: table;
+        margin: auto;
+        vertical-align: middle;
+        width: auto;
+    }
+    #banner {
+        display: block;
+        vertical-align: middle;
+        margin: auto;
+        width: 500px;
+    }
+    .tablemenu {
+        display: table;
+        vertical-align: middle;
+        margin: auto;
+        width: auto;
+        border: 1px;
+    }
+    .tdmenu {
+        width: 125px;
+        text-align: center;
+        font-size: 25px;
+    }
+    .container {
 
-}
-.table1 {
-    display: table;
-    margin: auto;
-    width: auto;
-    vertical-align: middle;
-}
-#tList {
-    display: table;
-    margin: auto;
-    width: auto;
-    float: left;
-}
-.photo {
-    width: 100%;
-    height: 100%;
-}
-.tdPhoto {
-    width: 40%;
-    height: 40%;
-}
+        display: block;
+        width: 40%;
+        margin: auto;
+    }
+        .tHome {
+            display: table;
+            margin: auto;
+            width: auto;
+            vertical-align: middle;
+        }
+        .photo {
+            width: 100%;
+            height: auto;
+        }
+        .tdPhoto {
+            width: 40%;
+            height: 40%;
+        }
