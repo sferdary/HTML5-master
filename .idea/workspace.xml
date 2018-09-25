@@ -17,7 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../EersteApplet/src/Show.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H4_Tekenen" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H5_Variabelen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/002/HTML5_002.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/002/HTML5_002.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/002/Content/Pictures/konijn01.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../h01" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-Java" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-Java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-java-master" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-java-master" afterDir="false" />
@@ -79,7 +79,7 @@
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/002/HTML5_002.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="702">
-                  <caret line="49" column="128" selection-start-line="49" selection-start-column="128" selection-end-line="49" selection-end-column="128" />
+                  <caret line="49" column="153" lean-forward="true" selection-start-line="49" selection-start-column="153" selection-end-line="49" selection-end-column="153" />
                 </state>
               </provider>
             </entry>
@@ -290,7 +290,7 @@
       <workItem from="1537524913988" duration="335000" />
       <workItem from="1537525267648" duration="5758000" />
       <workItem from="1537783046371" duration="8181000" />
-      <workItem from="1537857573249" duration="1849000" />
+      <workItem from="1537857573249" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 opdrachten">
       <created>1536743644054</created>
@@ -303,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54924000" />
+    <option name="totallyTimeSpent" value="55076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -461,7 +461,7 @@
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/002/HTML5_002.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
-          <caret line="49" column="128" selection-start-line="49" selection-start-column="128" selection-end-line="49" selection-end-column="128" />
+          <caret line="49" column="153" lean-forward="true" selection-start-line="49" selection-start-column="153" selection-end-line="49" selection-end-column="153" />
         </state>
       </provider>
     </entry>
