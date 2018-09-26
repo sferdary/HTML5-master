@@ -89,6 +89,9 @@ div.fBottom {
 	background-color: black;
 	color: white;
 }
+a.footer {
+	text-size: 15px;
+}
 p#copyRight {
 	text-align: center;
 	font-size: 10px;
