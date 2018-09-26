@@ -72,6 +72,7 @@ td#aardgas {
 td.rowOne {
 	width: 100px;
 	height: 80px;
+	padding: 2px;
 }
 td.rows {
 	width: 100px;
