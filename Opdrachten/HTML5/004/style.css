@@ -1,0 +1,95 @@
+body {
+	padding:20px;
+	height:100%;
+	width: 960px;
+	background-color: #e6e6e6;
+	margin: auto;
+}
+header {
+	background-color: white;
+	margin-bottom: 30px;
+}
+img#Logo {
+	height: 45px;
+	width: auto;
+}
+nav {
+	background-color: black;
+	color: white;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	padding: 5px;
+}
+a.menuSpace {
+	font-size: 25px;
+}
+a:link, a:visited {
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+div.main {
+	background-color: #f2f2f2;
+	width: 958px;
+	height: 90%;
+	border:1px solid black;
+}
+img.imgBreed {
+	width: 958px;
+	height: auto;
+}
+div.artText {
+	float: left;
+	width: 40%;
+	padding: 10px;
+}
+p#tekst {
+	font-size: 15px;
+}
+div.tVerbruik {
+	float: right;
+	padding: 10px;
+}
+table.verbruik{
+	background-color: lightgray;
+}
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+td#topLeftCorner {
+	height: 80px;
+	background-color: #f2f2f2;
+}
+td#elektriciteit {
+	background-color: lightgreen;
+	text-align: center;
+}
+td#aardgas {
+	background-color: lightblue;
+	text-align: center;
+}
+td.rowOne {
+	width: 100px;
+	height: 80px;
+}
+td.rows {
+	width: 100px;
+	height: 80px;
+}
+a#verbruik {
+	font-size: 12px;
+}
+div.fBottom {
+	position:absolute;
+	bottom: -125px;
+	padding: 20px;
+	width:920px;
+	height:110px;
+	background-color: black;
+	color: white;
+}
+p#copyRight {
+	text-align: center;
+	font-size: 10px;
+}
