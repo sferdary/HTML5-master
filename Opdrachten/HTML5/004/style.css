@@ -20,13 +20,13 @@ nav {
 	display: flex;
 	align-items: center;
 	padding: 5px;
+	font-size: 20px;
 }
 a.menuSpace {
 	font-size: 25px;
 }
 a:link, a:visited {
 	color: white;
-	font-size: 20px;
 	text-decoration: none;
 }
 div.main {
@@ -89,7 +89,7 @@ div.fBottom {
 	background-color: black;
 	color: white;
 }
-a.footer {
+a.afooter {
 	text-size: 15px;
 }
 p#copyRight {
