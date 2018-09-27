@@ -1,6 +1,6 @@
  body {
 	background-color: #f7f5f2;
-	height:auto;
+	height: auto;
 	width: 1000px;
 	padding:20px;
 	margin: auto;
@@ -23,7 +23,7 @@
  }
  div.main {
 	background-color: #e8e0d9;
-	height: 100%;
+	height: auto;
  }
  section.left {
 	width: 480px;
