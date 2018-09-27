@@ -1,0 +1,86 @@
+ body {
+	background-color: #f7f5f2;
+	height:auto;
+	width: 1000px;
+	padding:20px;
+	margin: auto;
+ }
+ header {
+	background-color: #e8e0d9;
+ }
+ img#Logo {
+	height: 75px;
+	width: auto;
+ }
+ nav {
+	background-color: #e8e0d9;
+	height: 15px;
+	padding: 5px;
+ }
+ a:link, a:visited {
+	color: #2F0000;
+	text-decoration: none;
+ }
+ div.main {
+	background-color: #e8e0d9;
+	height: 100%;
+ }
+ section.left {
+	width: 480px;
+	height:auto;
+	float: left;
+	padding: 10px;
+ }
+img.pLeft {
+	display: block;
+	margin: 5px.333;
+	width: 470px;
+	height: auto;
+}
+ section.right {
+	width: 480px;
+	height:auto;
+	float: right;
+	padding: 10px;
+ }
+img.pRight {
+	display: block;
+	margin: 5.333px;
+	height:auto;
+	width: 470;
+	}
+section.bottom {
+	padding: 10px;
+	vertical-align: middle;
+}
+div.wrapper {
+	width: 980px;
+}
+h1#title {
+	padding: 5px;
+}
+article.text01 {
+	display: inline;
+	width: 300px;
+	height: auto;
+	float: left;
+	padding: 10px;
+}
+article.text02 {
+	display: inline;
+	width: 300px;
+	height: auto;
+	float: left;
+	padding: 10px;
+}
+img#football {
+	width: 300px;
+	height: auto;
+}
+article.text03 {
+	display: inline;
+	width: 300px;
+	height: auto;
+	float: left;
+	padding: 10px;
+}
