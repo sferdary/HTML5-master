@@ -23,7 +23,7 @@ a:link, a:visited {
 }
 div.main {
 	background-color: #e8e0d9;
-	height: 100%;
+	height: 1200px;
 }
 section.left {
 	width: 480px;
@@ -55,7 +55,6 @@ section.bottom {
 }
 div.wrapper {
 	width: 980px;
-	position: absolute;
 }
 h1#title {
 	padding: 5px;

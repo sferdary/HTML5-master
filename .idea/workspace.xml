@@ -57,14 +57,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="708" />
+          <entry key="css" value="718" />
           <entry key="html" value="2397" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="708" />
+          <entry key="CSS" value="718" />
           <entry key="HTML" value="2397" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
@@ -78,7 +78,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="697">
+                <state relative-caret-position="748">
                   <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
                   <folding>
                     <element signature="e#390#396#0" expanded="true" />
@@ -99,8 +99,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+                <state relative-caret-position="136">
+                  <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -311,7 +311,7 @@
       <workItem from="1537896546547" duration="306000" />
       <workItem from="1537946636417" duration="3573000" />
       <workItem from="1537954940178" duration="2000" />
-      <workItem from="1538030503139" duration="2721000" />
+      <workItem from="1538030503139" duration="2946000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 opdrachten">
       <created>1536743644054</created>
@@ -324,7 +324,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64201000" />
+    <option name="totallyTimeSpent" value="64426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -502,7 +502,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="748">
           <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
           <folding>
             <element signature="e#390#396#0" expanded="true" />
@@ -517,8 +517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        <state relative-caret-position="136">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
