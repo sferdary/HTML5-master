@@ -33,7 +33,7 @@
  }
 img.pLeft {
 	display: block;
-	margin: 5px.333;
+	margin: 5px;
 	width: 470px;
 	height: auto;
 }
@@ -45,9 +45,9 @@ img.pLeft {
  }
 img.pRight {
 	display: block;
-	margin: 5.333px;
+	margin: 5px;
 	height:auto;
-	width: 470;
+	width: 470px;
 	}
 section.bottom {
 	padding: 10px;
