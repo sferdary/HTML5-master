@@ -1,61 +1,60 @@
- body {
+body {
 	background-color: #f7f5f2;
-	height: auto;
+	height:auto;
 	width: 1000px;
 	padding:20px;
 	margin: auto;
- }
- header {
+}
+header {
 	background-color: #e8e0d9;
- }
- img#Logo {
+}
+img#Logo {
 	height: 75px;
 	width: auto;
- }
- nav {
+}
+nav {
 	background-color: #e8e0d9;
 	height: 15px;
 	padding: 5px;
- }
- a:link, a:visited {
+}
+a:link, a:visited {
 	color: #2F0000;
 	text-decoration: none;
- }
- div.main {
+}
+div.main {
 	background-color: #e8e0d9;
 	height: 100%;
- }
- section.left {
+}
+section.left {
 	width: 480px;
 	height:auto;
 	float: left;
 	padding: 10px;
- }
+}
 img.pLeft {
 	display: block;
-	margin: 5px;
+	margin: 6px;
 	width: 470px;
 	height: auto;
 }
- section.right {
+section.right {
 	width: 480px;
 	height:auto;
 	float: right;
 	padding: 10px;
- }
+}
 img.pRight {
 	display: block;
-	margin: 5px;
+	margin: 6px;
 	height:auto;
 	width: 470px;
-	}
+}
 section.bottom {
 	padding: 10px;
 	vertical-align: middle;
 }
 div.wrapper {
 	width: 980px;
-	background-color: #e8e0d9;
 }
 h1#title {
 	padding: 5px;
