@@ -55,6 +55,7 @@ section.bottom {
 }
 div.wrapper {
 	width: 980px;
+	position: absolute;
 }
 h1#title {
 	padding: 5px;
