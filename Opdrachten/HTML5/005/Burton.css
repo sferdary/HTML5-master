@@ -1,86 +1,103 @@
 body {
-	background-color: #f7f5f2;
-	height: 100%;
-	width: 1000px;
-	padding:20px;
-	margin: auto;
+    background-color: #f7f5f2;
+    height: 100%;
+    width: 1000px;
+    padding: 20px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
 }
+
 header {
-	background-color: #e8e0d9;
+    background-color: #e8e0d9;
 }
+
 img#Logo {
-	height: 75px;
-	width: auto;
+    height: 75px;
+    width: auto;
 }
+
 nav {
-	background-color: #e8e0d9;
-	height: 15px;
-	padding: 5px;
+    background-color: #e8e0d9;
+    height: 15px;
+    padding: 5px;
 }
+
 a:link, a:visited {
-	color: #2F0000;
-	text-decoration: none;
+    color: #2F0000;
+    text-decoration: none;
 }
+
 div.main {
-	background-color: #e8e0d9;
-	height: 1200px;
+    background-color: #e8e0d9;
+    height: 1200px;
 }
+
 section.left {
-	width: 480px;
-	height:auto;
-	float: left;
-	padding: 10px;
+    width: 480px;
+    height: auto;
+    float: left;
+    padding: 10px;
 }
+
 img.pLeft {
-	display: block;
-	margin: 6px;
-	width: 470px;
-	height: auto;
+    display: block;
+    margin: 6px;
+    width: 470px;
+    height: auto;
 }
+
 section.right {
-	width: 480px;
-	height:auto;
-	float: right;
-	padding: 10px;
+    width: 480px;
+    height: auto;
+    float: right;
+    padding: 10px;
 }
+
 img.pRight {
-	display: block;
-	margin: 6px;
-	height:auto;
-	width: 470px;
+    display: block;
+    margin: 6px;
+    height: auto;
+    width: 470px;
 }
+
 section.bottom {
-	padding: 10px;
-	vertical-align: middle;
+    padding: 10px;
+    vertical-align: middle;
 }
+
 div.wrapper {
-	width: 980px;
+    width: 980px;
 }
+
 h1#title {
-	padding: 5px;
+    padding: 5px;
 }
+
 article.text01 {
-	display: inline;
-	width: 300px;
-	height: auto;
-	float: left;
-	padding: 10px;
+    display: inline;
+    width: 300px;
+    height: auto;
+    float: left;
+    padding: 10px;
 }
+
 article.text02 {
-	display: inline;
-	width: 300px;
-	height: auto;
-	float: left;
-	padding: 10px;
+    display: inline;
+    width: 300px;
+    height: auto;
+    float: left;
+    padding: 10px;
 }
+
 img#football {
-	width: 300px;
-	height: auto;
+    width: 300px;
+    height: auto;
 }
+
 article.text03 {
-	display: inline;
-	width: 300px;
-	height: auto;
-	float: left;
-	padding: 10px;
+    display: inline;
+    width: 300px;
+    height: auto;
+    float: left;
+    padding: 10px;
 }
