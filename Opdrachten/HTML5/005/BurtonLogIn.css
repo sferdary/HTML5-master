@@ -72,7 +72,7 @@ input.registerInput, select, textarea {
     left: 150px;
 }
 
-span.verplicht {
+span.required {
     font-size: 10px;
 }
 
@@ -81,13 +81,13 @@ input.radio {
     margin-top: -15px;
 }
 
-label#man {
+label#male {
     position: fixed;
     display: inline-block;
     margin-left: 85px;
 }
 
-label#vrouw {
+label#female {
     position: fixed;
     display: inline-block;
     margin-left: 165px;
