@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Burton - Register</title>
+    <link rel="stylesheet" href="BurtonLogIn.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+<header>
+    <a href="https://sferdary.github.io/HTML5-master/Opdrachten/HTML5/005/Burton.html"><img
+            src="https://sferdary.github.io/HTML5-master/Opdrachten/HTML5/005/Content/Pictures/BurtonLogo.png"
+            id="Logo"></a>
+    <a href="https://sferdary.github.io/HTML5-master/Opdrachten/HTML5/005/Burton_LogIn.html" id="LogIn"><b>Log
+        in</b></a>
+</header>
+<nav>
+    &nbsp;
+    <a href=""><b>Nieuws</b></a> &nbsp;
+    <a class="menuSpace"> | </a> &nbsp;
+    <a href=""><b>Over ons</b></a> &nbsp;
+    <a class="menuSpace"> | </a> &nbsp;
+    <a href=""><b>Producten</b></a> &nbsp;
+    <a class="menuSpace"> | </a> &nbsp;
+    <a href=""><b>Contact</b></a>
+</nav>
+<div class="main">
+    <div class="left">
+        <form id="register" action="https://www.savatarian.com/html5/form.php" method="post">
+            <ul>
+                <li>
+                    <h2>Registreren</h2>
+                    <span class="verplicht">* Verplicht veld</span>
+                </li>
+                <li>
+                    <label for="voornaam">* Voornaam:</label>
+                    <input type="text" name="voornaam" id="voornaam" class="registerInput"/>
+                </li>
+                <li>
+                    <label for="tussenvoegsel">* Tussenvoegsel:</label>
+                    <input type="text" name="tussenvoegsel" id="tussenvoegsel" class="registerInput"/>
+                </li>
+                <li>
+                    <label for="achternaam">* Achternaam:</label>
+                    <input type="text" name="achternaam" id="achternaam" class="registerInput"/>
+                </li>
+                <li>
+                    <label for="email">* Email adres:</label>
+                    <input type="text" name="email" id="email" class="registerInput"/>
+                </li>
+                <li>
+                    <label for="geslacht" id="geslacht"> * Geslacht:</label>
+                    <label id="man">Man
+                        <input type="radio" name="geslacht" value="Man" class="registerInput radio"/></label>
+                    <label id="vrouw">Vrouw
+                        <input type="radio" name="geslacht" value="Vrouw" id="radio" class="registerInput radio"/></label>
+                <li>
+                    <label for="kleurOgen">* Kleur ogen:</label>
+                    <select name="kleurOgen" id="kleurOgen">
+                        <option value="Blauw">Blauw</option>
+                        <option value="Bruin">Bruin</option>
+                        <option value="Grijs">Grijs</option>
+                        <option value="Groen">Groen</option>
+                    </select>
+                </li>
+                <li>
+                    <label for="geboorteDatum">* Geboorte datum:</label>
+                    <input type="date" value="1990-01-01" min="1990-01-01"
+                           max="2001-12-31" name="geboorteDatum" id="geboorteDatum" class="date registerInput"/>
+                </li>
+                <li>
+                    <label for="comment">Opmerking:</label>
+                    <textarea name="comment" id="comment" cols="20" rows="4"></textarea>
+                </li>
+            </ul>
+        </form>
+
+    </div>
+    <div class="right">
+        <ul class="checkboxes">
+            <li>
+                <label id="hobbies">Hobbies:</label>
+            </li>
+            <li>
+                <input type="checkbox" form="register" name="check01" value="sport" id="sport" class="registerInput">
+                <label for="sport">Sport</label><br>
+                <input type="checkbox" form="register" name="check02" value="games" id="games" class="registerInput">
+                <label for="games">Games</label><br>
+                <input type="checkbox" form="register" name="check03" value="music" id="music" class="registerInput">
+                <label for="music">Muziek</label>
+            </li>
+        </ul>
+    </div>
+    <div class="bottom">
+
+        <input form="register" type="submit" id="submit" name="submit" class="registerInput"/>
+        <a href="https://sferdary.github.io/HTML5-master/Opdrachten/HTML5/005/Burton_Register.html">
+            <button id="cancel">Cancel</button>
+        </a>
+
+    </div>
+</div>
+</body>
+</html>

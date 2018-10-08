@@ -1,0 +1,169 @@
+body {
+    background-color: #f7f5f2;
+    height: 100%;
+    width: 1000px;
+    padding: 20px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #e8e0d9;
+}
+
+a#LogIn {
+    float: right;
+    padding: 10px;
+}
+
+span.verplicht {
+    font-size: 10px;
+}
+
+img#Logo {
+    height: 75px;
+    width: auto;
+}
+
+nav {
+    background-color: #e8e0d9;
+    height: 15px;
+    padding: 5px;
+}
+
+a:link, a:visited {
+    color: #2F0000;
+    text-decoration: none;
+}
+
+div.main {
+    background-color: #e8e0d9;
+    width: 1000px;
+    height: 600px;
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+div.left {
+    float: left;
+    left: 150px;
+    height: 500px;
+    width: 400px;
+}
+
+#hobbies {
+    margin-top: -40px;
+    font-weight: bold;
+}
+
+ul.checkboxes {
+    text-align: left;
+    margin-top: 105px;
+    padding: 10px;
+    left: 600px;
+    width: 200px;
+    height: 200px;
+}
+
+div.bottom {
+    height: 500px;
+    width: 300px;
+
+}
+
+form#register {
+    display: inline-block;
+    left: 150px;
+    margin-right: auto;
+    text-align: left;
+    width: 400px;
+    height: 500px;
+}
+
+form#logInForm {
+    display: inline-block;
+    left: 150px;
+    margin-right: auto;
+    text-align: left;
+    width: 400px;
+    height: 500px;
+}
+
+form, ul {
+    list-style-type: none;
+    padding: 0;
+
+}
+
+form#register, ul, li {
+    padding: 10px;
+}
+
+ul {
+    position: absolute;
+    left: 200px;
+}
+
+input.registerInput, select, textarea {
+    position: absolute;
+    left: 150px;
+}
+
+input.radio {
+    left: -20px;
+    margin-top: -15px;
+}
+
+label#man {
+    position: fixed;
+    display: inline-block;
+    margin-left: 85px;
+}
+
+label#vrouw {
+    position: fixed;
+    display: inline-block;
+    margin-left: 165px;
+}
+
+.date {
+    margin-top: -20px;
+
+}
+
+a#register {
+    position: fixed;
+    display: inline-block;
+    margin-top: 243px;
+    margin-right: auto;
+    text-align: left;
+    width: 60px;
+    height: 25px;
+}
+
+input#submit {
+    margin-top: 550px;
+    margin-left: 200px;
+    width: 60px;
+
+}
+
+button#cancel {
+    margin-top: 50px;
+    margin-left: 450px;
+    width: 60px;
+
+}
+
+#buttonLogIn {
+    margin-top: 35px;
+}
+
+ul#logInForm {
+    left: 300px;
+}
+
+label.logInInput {
+    margin-top: -20px;
+}
