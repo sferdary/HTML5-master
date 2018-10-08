@@ -15,10 +15,12 @@ img#Logo {
     height: 75px;
     width: auto;
 }
+
 a#LogIn {
     float: right;
     padding: 10px;
 }
+
 nav {
     background-color: #e8e0d9;
     height: 15px;

@@ -7,17 +7,23 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+a:link, a:visited {
+    color: #2F0000;
+    text-decoration: none;
+}
+
+form, ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul {
+    position: absolute;
+    left: 200px;
+}
+
 header {
     background-color: #e8e0d9;
-}
-
-a#LogIn {
-    float: right;
-    padding: 10px;
-}
-
-span.verplicht {
-    font-size: 10px;
 }
 
 img#Logo {
@@ -29,11 +35,6 @@ nav {
     background-color: #e8e0d9;
     height: 15px;
     padding: 5px;
-}
-
-a:link, a:visited {
-    color: #2F0000;
-    text-decoration: none;
 }
 
 div.main {
@@ -52,26 +53,7 @@ div.left {
     width: 400px;
 }
 
-#hobbies {
-    margin-top: -40px;
-    font-weight: bold;
-}
-
-ul.checkboxes {
-    text-align: left;
-    margin-top: 105px;
-    padding: 10px;
-    left: 600px;
-    width: 200px;
-    height: 200px;
-}
-
-div.bottom {
-    height: 500px;
-    width: 300px;
-
-}
-
+/* REGISTER FORM*/
 form#register {
     display: inline-block;
     left: 150px;
@@ -81,33 +63,17 @@ form#register {
     height: 500px;
 }
 
-form#logInForm {
-    display: inline-block;
-    left: 150px;
-    margin-right: auto;
-    text-align: left;
-    width: 400px;
-    height: 500px;
-}
-
-form, ul {
-    list-style-type: none;
-    padding: 0;
-
-}
-
 form#register, ul, li {
     padding: 10px;
-}
-
-ul {
-    position: absolute;
-    left: 200px;
 }
 
 input.registerInput, select, textarea {
     position: absolute;
     left: 150px;
+}
+
+span.verplicht {
+    font-size: 10px;
 }
 
 input.radio {
@@ -127,9 +93,22 @@ label#vrouw {
     margin-left: 165px;
 }
 
-.date {
+input.date {
     margin-top: -20px;
+}
 
+#hobbies {
+    margin-top: -40px;
+    font-weight: bold;
+}
+
+ul.checkboxes {
+    text-align: left;
+    margin-top: 105px;
+    padding: 10px;
+    left: 600px;
+    width: 200px;
+    height: 200px;
 }
 
 a#register {
@@ -146,18 +125,22 @@ input#submit {
     margin-top: 550px;
     margin-left: 200px;
     width: 60px;
-
 }
 
 button#cancel {
     margin-top: 50px;
     margin-left: 450px;
     width: 60px;
-
 }
 
-#buttonLogIn {
-    margin-top: 35px;
+/*LOGIN FORM*/
+form#logInForm {
+    display: inline-block;
+    left: 150px;
+    margin-right: auto;
+    text-align: left;
+    width: 400px;
+    height: 500px;
 }
 
 ul#logInForm {
@@ -166,4 +149,13 @@ ul#logInForm {
 
 label.logInInput {
     margin-top: -20px;
+}
+
+a#LogIn {
+    float: right;
+    padding: 10px;
+}
+
+#buttonLogIn {
+    margin-top: 35px;
 }
