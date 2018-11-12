@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d37f1ea5-21cb-4ccf-ac83-99e502391f68" name="Default Changelist" comment="HTML5 opdrachten">
+      <change afterPath="$PROJECT_DIR$/Opdrachten/HTML5/006/responsive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten/HTML5/006/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BestaandProject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BestaandProject/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BestaandProject/.idea/vcs.xml" beforeDir="false" />
@@ -17,12 +19,12 @@
       <change beforePath="$PROJECT_DIR$/../EersteApplet/src/Show.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H4_Tekenen" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../H5_Variabelen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/005/BurtonLogIn.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/005/BurtonLogIn.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_LogIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_LogIn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_Register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_Register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../h01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inleiding-Java" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inleiding-Java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../inleiding-java-master" beforeDir="false" afterPath="$PROJECT_DIR$/../inleiding-java-master" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,100 +37,58 @@
     <session id="-1981075650">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="15" />
           <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Guadales" value="1" />
-          <entry key="css" value="22" />
-          <entry key="html" value="50" />
+          <entry key="css" value="25" />
+          <entry key="html" value="51" />
           <entry key="test" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="22" />
-          <entry key="HTML" value="50" />
+          <entry key="CSS" value="25" />
+          <entry key="HTML" value="51" />
           <entry key="Image" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="791" />
-          <entry key="html" value="3019" />
+          <entry key="css" value="944" />
+          <entry key="html" value="3074" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="791" />
-          <entry key="HTML" value="3019" />
+          <entry key="CSS" value="944" />
+          <entry key="HTML" value="3074" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6397059">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-765">
-                  <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="527">
-                  <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_LogIn.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="663">
-                  <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-                  <folding>
-                    <element signature="e#458#464#0" expanded="true" />
-                    <element signature="e#498#504#0" expanded="true" />
-                    <element signature="e#538#544#0" expanded="true" />
-                    <element signature="e#580#586#0" expanded="true" />
-                    <element signature="e#620#626#0" expanded="true" />
-                    <element signature="e#663#669#0" expanded="true" />
-                    <element signature="e#703#709#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_Register.html">
+            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/006/responsive.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+                <state relative-caret-position="323">
+                  <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
                   <folding>
-                    <element signature="e#514#520#0" expanded="true" />
-                    <element signature="e#554#560#0" expanded="true" />
-                    <element signature="e#594#600#0" expanded="true" />
-                    <element signature="e#636#642#0" expanded="true" />
-                    <element signature="e#676#682#0" expanded="true" />
-                    <element signature="e#719#725#0" expanded="true" />
-                    <element signature="e#759#765#0" expanded="true" />
+                    <element signature="n#style#0;n#iframe#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -137,21 +97,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/BurtonLogIn.css">
+            <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/006/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-763">
-                  <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+                <state relative-caret-position="464">
+                  <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -163,8 +114,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -174,6 +125,10 @@
       <find>tellus porta</find>
       <find>registeri</find>
       <find>login</find>
+      <find>li</find>
+      <find>log</find>
+      <find>cancel</find>
+      <find>regi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -208,6 +163,8 @@
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_LogIn.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_Register.html" />
         <option value="$PROJECT_DIR$/Opdrachten/HTML5/005/BurtonLogIn.css" />
+        <option value="$PROJECT_DIR$/Opdrachten/HTML5/006/responsive.html" />
+        <option value="$PROJECT_DIR$/Opdrachten/HTML5/006/style.css" />
       </list>
     </option>
   </component>
@@ -274,7 +231,15 @@
               <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
               <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
               <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="005" type="462c0819:PsiDirectoryNode" />
+              <item name="006" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML5-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Opdrachten" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="006" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +317,8 @@
       <workItem from="1538549831383" duration="2203000" />
       <workItem from="1538721456443" duration="1335000" />
       <workItem from="1538741793862" duration="4000" />
-      <workItem from="1538995407344" duration="5439000" />
+      <workItem from="1538995407344" duration="6024000" />
+      <workItem from="1542025030751" duration="3919000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 opdrachten">
       <created>1536743644054</created>
@@ -365,13 +331,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73897000" />
+    <option name="totallyTimeSpent" value="78401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -429,9 +395,7 @@
     <entry file="file://$PROJECT_DIR$/H02/test.html" />
     <entry file="file://$PROJECT_DIR$/Content/Pictures/Guadales" />
     <entry file="file://$PROJECT_DIR$/Content/Pictures/test" />
-    <entry file="file://$USER_HOME$/Documents/Notepad++/test/html5/test.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Notepad++/test/html5/test.css" />
     <entry file="file://$PROJECT_DIR$/H01/testpage01.html" />
     <entry file="file://$PROJECT_DIR$/OverMij/OverMij.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -534,70 +498,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/register.html" />
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="306">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/HTML5_Opdrachten.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+          <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_LogIn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="3">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding>
-            <element signature="e#458#464#0" expanded="true" />
-            <element signature="e#498#504#0" expanded="true" />
-            <element signature="e#538#544#0" expanded="true" />
-            <element signature="e#580#586#0" expanded="true" />
-            <element signature="e#620#626#0" expanded="true" />
-            <element signature="e#663#669#0" expanded="true" />
-            <element signature="e#703#709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_Register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
-          <folding>
-            <element signature="e#514#520#0" expanded="true" />
-            <element signature="e#554#560#0" expanded="true" />
-            <element signature="e#594#600#0" expanded="true" />
-            <element signature="e#636#642#0" expanded="true" />
-            <element signature="e#676#682#0" expanded="true" />
-            <element signature="e#719#725#0" expanded="true" />
-            <element signature="e#759#765#0" expanded="true" />
+            <element signature="e#1077#1083#0" expanded="true" />
+            <element signature="e#1083#1089#0" expanded="true" />
+            <element signature="e#1089#1095#0" expanded="true" />
+            <element signature="e#1095#1101#0" expanded="true" />
+            <element signature="e#1101#1107#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/BurtonLogIn.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-763">
-          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        <state relative-caret-position="417">
+          <caret line="135" column="14" lean-forward="true" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton_Register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="75" column="23" lean-forward="true" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/005/Burton.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/006/responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdrachten/HTML5/006/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
         </state>
       </provider>
     </entry>

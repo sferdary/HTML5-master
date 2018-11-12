@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+/*PHONE SIZE BY DEFAULT*/
+body {
+    background-color: rgb(250, 241, 234) !important;
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+/*FULL SIZE*/
+@media all and (min-width: 800px) {
+    section#news {
+        float: left;
+        width: 30%;
+    }
+
+    section#instruments {
+        width: 70%;
+        float: right;
+    }
+
+    article {
+        display: inline-block;
+        width: 48%;
+        margin-right: 20px;
+    }
+
+    article:nth-child(even) {
+        margin-right: 0;
+    }
+}
+
+/*TABLET SIZE*/
+@media all and (min-width: 550px) {
+    ul {
+        background-color: rgb(128, 128, 128);
+        text-align: center;
+    }
+
+    li {
+        display: inline-block;
+        border: none !important;
+    }
+
+    section#news {
+        float: left;
+        width: 40%;
+    }
+
+    section#instruments {
+        width: 60%;
+        float: right;
+    }
+}
+
+header {
+    background-color: rgb(192, 248, 223);
+}
+
+ul {
+
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background-color: rgb(128, 128, 128);
+    border-top: 1px solid white;
+    padding: 10px 10px 10px 20px;
+}
+
+li a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h3 {
+    color: rgb(220, 108, 94);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+img {
+    width: 100%;
+}
+
+img#banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 300px;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section, footer {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(128, 128, 128);
+    color: white;
+    clear: both;
+}
